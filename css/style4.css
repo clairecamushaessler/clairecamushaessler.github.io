@@ -1,0 +1,74 @@
+p {
+	margin: 0;
+}
+
+.red{
+	background:#ad0d1b ;
+	color: white;
+	align-items: center;
+}
+
+.heading-title{
+	text-align: center;
+	color: #ad0d1b;
+	font-weight: bolder;
+}
+
+.subtitle{
+	background: white;
+	color: #ad0d1b;
+	padding-left: 5px;
+}
+
+.box{
+	background: #ad0d1b;
+	color: white;
+	padding-left: 5px;
+
+}
+
+.box2{
+	background: white;
+}
+
+.imageholder{
+	text-align: center;
+	margin-top: 20px;
+}
+
+.brand{
+	width: 70%;
+	margin-bottom: 10px;
+}
+
+.text-infos {
+	margin: 5px;
+	line-height: 20px;
+	color: white;
+}
+
+.text {
+		margin-bottom: 10px;
+}
+
+
+.italic{
+	font-style: italic;
+	line-height: 20px;
+	margin: 0;
+}
+
+.bold{
+	font-weight: bolder;
+	line-height: 20px;
+	margin: 0;
+}
+
+.compressed{
+	line-height: 20px;
+	margin: 0;
+}
+
+.margined{
+margin-bottom: 20px;
+}

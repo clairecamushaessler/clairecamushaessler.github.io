@@ -1,0 +1,12 @@
+body {
+	background-color: white;
+}
+
+.header-blue{
+	background-color: #85cdf2;
+}
+
+.header-red{
+	background-color: #af3a43;
+	color: white;
+}

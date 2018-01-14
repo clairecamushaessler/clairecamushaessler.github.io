@@ -1,0 +1,29 @@
+body {
+	background-color: #42dff4;
+	color: #772229;
+	font-family: 'Poiret One', cursive;
+	font-style: oblique;
+	font-size: 155%;
+	margin: 0px;
+}
+.head{background-color: #4c78aa}
+.head{color: #e3effc}
+
+
+	.footer{
+	background-color: #4c78aa;
+	height:250%;
+	color: #e3effc
+	 }
+
+.background{
+	background-image: url(../img/bain.gif);
+	background-size: cover;
+	height: 100vh;
+}
+.heading-title{
+	padding-top: 40vh;
+	text-align: center;
+	margin: 0px;
+	color:white;
+}
